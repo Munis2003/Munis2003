@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
 </p>
-
+<br>
 - 🔭 I’m currently working on **API Projects**
 
 - 🌱 I’m currently learning **JavaScript , ReactJS , Tailwind CSS**
@@ -15,16 +15,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munis2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munis2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
-
-<img align="right" height="176" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+<br>
+<img align="right" height="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 ###
 <h3 align="left">My Skills:</h3>
@@ -52,6 +45,14 @@
   <a href="https://codepen.io/@munis-abbas" target="blank"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" height="35" alt="codepen logo" /></a> 
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
  
+</div>
+
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munis2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munis2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
