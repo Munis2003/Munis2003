@@ -1,17 +1,17 @@
 <img src="https://s1.ezgif.com/tmp/ezgif-1-5ce0318975.gif" alt="Image Description" width="100%" height="350px">
 <h1 align="left">Hi,👋 My Name is</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&duration=5000&pause=1000&color=79dafa&random=false&width=435&lines=Munis+Abbas+;Web+Developer" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=0e75b6&style=flat" alt="munis2003" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&duration=5000&pause=1000&color=9745f5&random=false&width=435&lines=Munis+Abbas+;Web+Developer" alt="Typing SVG" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=9745f5&style=flat" alt="munis2003" /> </p>
 
-<a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
+<a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-9745f5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
 <br>
-<h2 align="left">Passionate Developer</h2>
+<h2 align="left">Passionate <span stye="color:red">Developer</span></h2>
 <p> I enjoy making interactive web experiences. I have a good sense for design. I'm good at finding solutions to problems. I aim to write code that is clean and efficient. I love turning ideas into reality.</p>
 <img align="right" height="160" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🔭 I’m currently working on **API Projects**
 
-- 🌱 I’m currently learning **JavaScript , ReactJS , Tailwind CSS**
+- 🌱 I’m currently learning **JavaScript , ReactJS , Redux**
 
 - 💬 Ask me about **Front-End Technology**
 
@@ -51,10 +51,10 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munis2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://streak-stats.demolab.com?user=Munis2003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munis2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=Munis2003&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munis2003&locale=en&hide_title=false&layout=compact&card_width=448&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munis2003&locale=en&hide_title=false&layout=compact&card_width=448&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
