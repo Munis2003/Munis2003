@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Munis Abbas</h1>
-<p align="center">A passionate frontend developer from India</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=3000&pause=1000&color=6965DB&random=false&width=435&lines=Munis+Abbas+;Web+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=0e75b6&style=flat" alt="munis2003" /> </p>
 
 <a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
-</p>
 <br>
+<h2 align="left">Passionate Developer</h2>
+<p> I enjoy making interactive web experiences. I have a good sense for design. I'm good at finding solutions to problems. I aim to write code that is clean and efficient. I love turning ideas into reality.</p>
 <img align="right" height="160" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 - 🔭 I’m currently working on **API Projects**
