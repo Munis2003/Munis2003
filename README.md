@@ -5,6 +5,9 @@
 <a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
 </p>
 <br>
+###
+<img align="right" height="160" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+
 - 🔭 I’m currently working on **API Projects**
 
 - 🌱 I’m currently learning **JavaScript , ReactJS , Tailwind CSS**
@@ -12,12 +15,8 @@
 - 💬 Ask me about **Front-End Technology**
 
 - 📫 How to reach me **munisabbas2003@gmail.com**
-
 ###
 
-###
-<br>
-<img align="right" height="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 ###
 <h3 align="left">My Skills:</h3>
