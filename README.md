@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Munis Abbas and I'm a Frontend Developer, from Delhi, India.</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=0e75b6&style=flat" alt="munis2003" /> </p>
+
+<a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
+</p>
+
 - 🔭 I’m currently working on **API Projects**
 
 - 🌱 I’m currently learning **JavaScript , ReactJS , Tailwind CSS**
@@ -19,7 +24,7 @@
 
 ###
 
-<img align="right" height="179" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+<img align="right" height="176" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 ###
 <h3 align="left">My Skills:</h3>
