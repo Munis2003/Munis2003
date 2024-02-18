@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Munis Abbas</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=3000&pause=1000&color=6965DB&random=false&width=435&lines=Munis+Abbas+;Web+Developer)](https://git.io/typing-svg)
+<h1 align="left">Hi 👋, I'm Munis Abbas</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=3000&pause=1000&color=6965DB&random=false&width=435&lines=Munis+Abbas+;Web+Developer)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=0e75b6&style=flat" alt="munis2003" /> </p>
 
