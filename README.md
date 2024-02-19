@@ -1,4 +1,4 @@
-<img src="https://s1.ezgif.com/tmp/ezgif-1-5ce0318975.gif" alt="Image Description" width="100%" height="350px">
+<img src="cover_Bg.gif" alt="Image Description" width="100%" height="350px">
 <h1 align="left">Hi,👋 My Name is</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&duration=5000&pause=1000&color=9745f5&random=false&width=435&lines=Munis+Abbas+;Web+Developer" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=9745f5&style=flat" alt="munis2003" /> </p>
