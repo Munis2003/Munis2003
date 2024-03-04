@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&duration=5000&pause=1000&color=9745f5&random=false&width=435&lines=Munis+Abbas+;Web+Developer" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munis2003&label=Profile%20views&color=9745f5&style=flat" alt="munis2003" /> </p>
 
-<a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-9745f5?style=for-the-badge&logo=linkedin&logoColor=white" alt="munisabbas" /></a>
+<a href="https://linkedin.com/in/munisabbas" target="blank"><img align="center" src="https://img.shields.io/badge/CONNECT @ MUNISABBAS-9745f5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="munisabbas" /></a>
 <br>
 <h2 align="left">Passionate <span stye="color:red">Developer</span></h2>
 <p> I enjoy making interactive web experiences. I have a good sense for design. I'm good at finding solutions to problems. I aim to write code that is clean and efficient. I love turning ideas into reality.</p>
@@ -40,10 +40,10 @@
 ###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00A0DC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://codepen.io/@munis-abbas" target="blank"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" height="35" alt="codepen logo" /></a> 
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=9745f5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00A0DC&logoColor=white&labelColor=&style=for-the-badge&style=flat" height="35" alt="linkedin logo"  />
+  <a href="https://codepen.io/@munis-abbas" target="blank"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black&style=flat" height="35" alt="codepen logo" /></a> 
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=9745f5&logoColor=white&labelColor=&style=for-the-badge&style=flat" height="35" alt="discord logo"  />
  
 </div>
 
