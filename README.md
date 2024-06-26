@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **API Projects**
 
-- 🌱 I’m currently learning **JavaScript , ReactJS , Redux**
+- 🌱 I’m currently learning **NextJS , GSAP , Gatsby**
 
 - 💬 Ask me about **Front-End Technology**
 
